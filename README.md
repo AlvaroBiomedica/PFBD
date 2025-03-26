@@ -6,15 +6,56 @@
 
 Alvaro Rodrigo Sucaticona Ambicho
 
-# Tabla de Contenidos
-1. [Fundamentos de la Biomecánica](#fundamentos-de-la-biomecanica)
-2. [Anatomía de una Pierna](#anatomia-de-una-pierna)
+# Índice
 
-# FUNDAMENTOS DE LA BIOMECÁNICA
-A lo largo de los siglos, los conceptos de biomecánica, entendida como la ciencia del estudio de las fuerzas y de los efectos de su aplicación sobre el cuerpo humano, han evolucionado mucho. En gran parte, esta evolución se ha producido gracias a la mejora de nuestros conocimientos sobre el cuerpo humano, en relación con el cual se ha establecido un sistema de referencia anatómico donde se dibujan planos y ejes: ello ha hecho posible la descripción estandarizada de los movimientos de las articulaciones del cuerpo. A continuación, el conocimiento de las propiedades mecánicas de los materiales, transferibles a los seres vivos, ha permitido entender las adaptaciones de diferentes tejidos humanos.
+## 1. Introducción a la Biomecánica
+   - 1.1 Definición de Biomecánica
+   - 1.2 Historia y evolución de la Biomecánica
+   - 1.3 Importancia en el estudio del cuerpo humano
 
-# ANATOMÍA DE UNA PIERNA
-La parte inferior de la pierna consta de dos huesos: la tibia y el peroné, que es el hueso más pequeño. El hueso del muslo o fémur, es el hueso largo de la parte superior de la pierna que conecta los huesos de la parte inferior de la pierna (articulaciones de la rodilla) con el hueso pélvico (articulación de la cadera).
+## 2. Fundamentos de la Biomecánica
+   - 2.1 Conceptos básicos
+   - 2.2 Sistemas de referencia anatómicos
+
+## 3. Anatomía de una Pierna
+   - 3.1 Huesos principales
+
+## 4. Aplicaciones de la Biomecánica en la Medicina
+   - 4.1 Prótesis y ortesis
+
+## 5. Conclusión
+   - 5.1 Resumen de los conceptos clave
+   - 5.2 Importancia de la Biomecánica en el futuro
+
+---
+
+### 1.1 Definición de Biomecánica
+La biomecánica es la ciencia que estudia las fuerzas y los efectos de su aplicación sobre el cuerpo humano. Su propósito es comprender cómo los diferentes tejidos y estructuras del cuerpo responden a las cargas mecánicas.
+
+### 1.2 Historia y evolución de la Biomecánica
+A lo largo de la historia, la biomecánica ha evolucionado con el avance del conocimiento sobre anatomía y materiales. Desde los primeros estudios de Leonardo da Vinci hasta los modernos análisis por computadora, esta disciplina ha sido clave en el desarrollo de la medicina y la ingeniería.
+
+### 1.3 Importancia en el estudio del cuerpo humano
+El análisis biomecánico permite entender el movimiento humano, optimizar el rendimiento deportivo, mejorar tratamientos médicos y desarrollar dispositivos como prótesis y ortesis.
+
+### 2.1 Conceptos básicos
+La biomecánica se basa en principios físicos para estudiar el cuerpo humano. Se utilizan conceptos como fuerza, torque, centro de gravedad y equilibrio para analizar el movimiento y su eficiencia.
+
+### 2.2 Sistemas de referencia anatómicos
+Para describir el movimiento, se usa un sistema de referencia basado en planos y ejes. Esto permite una comunicación estandarizada en medicina y rehabilitación.
+
+### 3.1 Huesos principales
+La pierna está compuesta por el fémur en la parte superior y la tibia y el peroné en la inferior. El fémur es el hueso más largo y fuerte del cuerpo.
+
+### 4.1 Prótesis y ortesis
+Las prótesis reemplazan partes del cuerpo perdidas, mientras que las ortesis ayudan a mejorar la función de una estructura debilitada o dañada.
+
+### 5.1 Resumen de los conceptos clave
+La biomecánica es una disciplina fundamental para entender el movimiento humano y mejorar la calidad de vida a través de aplicaciones médicas y deportivas.
+
+### 5.2 Importancia de la Biomecánica en el futuro
+El desarrollo de nuevas tecnologías seguirá ampliando el alcance de la biomecánica, permitiendo avances en la medicina, la ingeniería y el deporte.
+
 
 
 
