@@ -27,3 +27,18 @@ A lo largo de los siglos, los conceptos de biomecánica, entendida como la cienc
 La parte inferior de la pierna consta de dos huesos: la tibia y el peroné, que es el hueso más pequeño. El hueso del muslo o fémur, es el hueso largo de la parte superior de la pierna que conecta los huesos de la parte inferior de la pierna (articulaciones de la rodilla) con el hueso pélvico (articulación de la cadera).}
 
 ![IMAGEN_PIERNA](https://medlineplus.gov/spanish/ency/images/ency/fullsize/8844.jpg)
+
+
+
+
+
+# Tabla de Contenidos
+1. [Introducción](#introduccion)
+2. [Objetivos del Proyecto](#objetivos-del-proyecto)
+
+# INTRODUCCIÓN
+Este proyecto tiene como objetivo explorar los fundamentos de la biomecánica.
+
+# OBJETIVOS DEL PROYECTO
+1. Estudiar los principales aspectos de la biomecánica.
+2. Aplicar estos conocimientos en casos reales.
