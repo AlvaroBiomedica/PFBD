@@ -9,23 +9,23 @@ Alvaro Rodrigo Sucaticona Ambicho
 # Índice
 
 ## 1. Introducción a la Biomecánica
-   - 1.1 Definición de Biomecánica
-   - 1.2 Historia y evolución de la Biomecánica
-   - 1.3 Importancia en el estudio del cuerpo humano
+   - [1.1 Definición de Biomecánica](#11-definicion-de-biomecanica)
+   - [1.2 Historia y evolución de la Biomecánica](#12-historia-y-evolucion-de-la-biomecanica)
+   - [1.3 Importancia en el estudio del cuerpo humano](#13-importancia-en-el-estudio-del-cuerpo-humano)
 
 ## 2. Fundamentos de la Biomecánica
-   - 2.1 Conceptos básicos
-   - 2.2 Sistemas de referencia anatómicos
+   - [2.1 Conceptos básicos](#21-conceptos-basicos)
+   - [2.2 Sistemas de referencia anatómicos](#22-sistemas-de-referencia-anatomicos)
 
 ## 3. Anatomía de una Pierna
-   - 3.1 Huesos principales
+   - [3.1 Huesos principales](#31-huesos-principales)
 
 ## 4. Aplicaciones de la Biomecánica en la Medicina
-   - 4.1 Prótesis y ortesis
+   - [4.1 Prótesis y ortesis](#41-protesis-y-ortesis)
 
 ## 5. Conclusión
-   - 5.1 Resumen de los conceptos clave
-   - 5.2 Importancia de la Biomecánica en el futuro
+   - [5.1 Resumen de los conceptos clave](#51-resumen-de-los-conceptos-clave)
+   - [5.2 Importancia de la Biomecánica en el futuro](#52-importancia-de-la-biomecanica-en-el-futuro)
 
 ---
 
@@ -55,6 +55,7 @@ La biomecánica es una disciplina fundamental para entender el movimiento humano
 
 ### 5.2 Importancia de la Biomecánica en el futuro
 El desarrollo de nuevas tecnologías seguirá ampliando el alcance de la biomecánica, permitiendo avances en la medicina, la ingeniería y el deporte.
+
 
 
 
