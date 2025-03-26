@@ -3,7 +3,7 @@
 Se busca desarrollar un prototipo de pierna con la cual el paciente pueda realizar actividades diarias sin problema
 *INTEGRANTE UNICO*
 Alvaro Rodrigo Sucaticona Ambicho
-![IMAGEN REFERENCIAL](https://pin.it/4lb9t34CA)
+![IMAGEN REFERENCIAL](https://images.app.goo.gl/LtKdNFbrECjpJ6Vw7)
 
 ### TABLA DE CONTENIDOS
 1. [FUNDAMENTOS DE LA BIOMECANICA](https://www.sciencedirect.com/science/article/pii/S1293296515741423)
